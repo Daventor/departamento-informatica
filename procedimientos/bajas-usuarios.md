@@ -15,6 +15,7 @@ Cada baja de personal, con al menos dos días de antelación.
 3. Eliminar al usuario de los grupos en los que esté
 4. Dar de baja los permisos de su puesto
 5. Borrar la cuenta en el directorio.
+6. Organizar la fiesta de despedida del usuario.
 
 ## 5. Registro
 Anotar la baja en el registro de cuentas con fecha y técnico.
