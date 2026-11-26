@@ -21,3 +21,8 @@ Solo se realizará cuando se produzcan cortes del suministro electrico, o cuando
 ## 5. Registro
 
 El jefe de proyecto debe de informar la situacion de todos los equipos del personal a su cargo, al administrador de servicios.
+
+## 6. Comprobaciones
+
+1.- Observar el tiempo que le queda al SAI para que siga funcionando
+2.- Notificar a la compañia electrica el problema
