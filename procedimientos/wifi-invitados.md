@@ -13,6 +13,7 @@ A la llegada de un nuevo invitado.
 1. Recibir la solicitud de alta para un nuevo invitado.
 2. Configurar red de invitados para este nuevo usario.
 3. Entregar las credenciales por un canal seguro.
+4. Solicitar confirmación recepción credenciales.
 
 ## 5. Registro
 Anotar el alta en el registro de wifi de invitados.
