@@ -12,7 +12,8 @@ El mantenimiento de procedimientos se realizará en el momento en el que se dete
 ## 4. Pasos
 1. Definir el alcance del cambio, indicando si afecta o no colateralmente a otros procedimientos relacionados o se trata de un cambio aislado.
 2. Descripción de las modificaciones a llevar a cabo.
-3. Actualización de toda la documentación
+3. Actualización de toda la documentación versionando el nuevo procedimiento modificado.
+4. Difusión del nuevo procedimiento moficicado/actualizado.
 
 ## 5. Registro
 Una vez realizados los cambios, el nuevo procedimiento se pasará por registro de salida para difundir el mismo entre todos los técnicos y responsables.
