@@ -45,3 +45,15 @@ Las actividades relacionadas con el teletrabajo quedarán documentadas mediante l
 - Seguimiento de tareas: Registro del estado y evolución de las actividades mediante las herramientas de gestión de proyectos de la empresa.
 - Incidencias técnicas: Documentación de los problemas informáticos o de conexión comunicados al departamento de soporte.
 - Informes de seguimiento: Resúmenes periódicos elaborados por los responsables de equipo para evaluar el cumplimiento de los objetivos.
+
+## 6. Seguridad y prevención de riesgos
+
+Para garantizar un entorno de teletrabajo seguro y saludable, los empleados deberán cumplir las siguientes medidas:
+- Ergonomía: Mantener una postura adecuada, utilizar una silla y una mesa apropiadas y colocar la pantalla a una altura que evite molestias físicas.
+- Iluminación: Disponer de iluminación suficiente para evitar la fatiga visual durante la jornada laboral.
+Pausas: Realizar descansos periódicos para reducir la fatiga física y mental.
+- Seguridad informática: Mantener actualizados los dispositivos, utilizar contraseñas seguras y evitar conectarse a redes Wi-Fi públicas sin las medidas de protección adecuadas.
+- Protección de datos: No dejar documentos confidenciales a la vista de personas ajenas a la organización y bloquear el equipo cuando no se esté utilizando.
+- Comunicación de incidencias: Informar al responsable correspondiente de cualquier accidente, problema de seguridad o situación que pueda afectar al desarrollo del trabajo.
+
+La empresa facilitará información y recomendaciones para prevenir riesgos laborales y garantizar la seguridad de los empleados durante el desempeño de sus funciones a distancia.
