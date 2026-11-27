@@ -22,3 +22,5 @@ Técnico del CAU: Responsable del departamento.
                                                               
 ## 5. Registro                                                
 Anotar el alta en el registro de cuentas con fecha y técnico.
+
+Una vez retirados todos los equipos antiguos, trasladarlos al sotano.
