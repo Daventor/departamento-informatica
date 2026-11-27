@@ -4,7 +4,8 @@
 Establecer el procedimiento a seguir a la hora de mantener seguros nuestros sistemas haciendo uso del antivirus corporativo. Este procedimiento permitirá prevenir, detectar y eliminar posibles amenazas, como virus, malware, ransomware y otros programas maliciosos.
 
 ## 2. Responsables
-Departamento de Sistemas. Se designará a un técnico responsable de la seguridad de los equipos informáticos. Sus funciones deben ser:
+Departamento de Sistemas. Se designará a un técnico responsable de la seguridad de los equipos informáticos. La persona responsable será el Jefe del Departamento de Sistemas.
+Sus funciones deben ser:
 
 - Supervisar que todos los equipos tengan instalado y actualizado el antivirus corporativo.
 - Configurar las políticas de protección y los análisis automáticos.
@@ -14,17 +15,18 @@ Departamento de Sistemas. Se designará a un técnico responsable de la seguridad 
 
 Los usuarios de cada equipo también deberán colaborar, evitando desactivar el antivirus y comunicando cualquier alerta o comportamiento sospechoso.
 
+Se designarán y formarán a los técnicos encargados de realizar las instalaciones del antivirus 
+con las acciones formativas recomendadas en estos casos, al menos un mes antes de que comiencen
+con su trabajo.
+
+
 ## 3. Frecuencia de ejecución
 Se recomienda establecer la siguiente periodicidad:
 
 - Protección en tiempo real: permanentemente activada para analizar archivos, descargas, correos electrónicos y dispositivos externos.
-
 - Actualización del antivirus: automática y diaria, o siempre que el fabricante publique nuevas definiciones.
-
 - Análisis rápido: diariamente, preferiblemente fuera del horario de mayor actividad.
-
 - Análisis completo: al menos una vez a la semana.
-
 - Análisis extraordinario: siempre que se detecte un comportamiento sospechoso, una infección o se conecte un dispositivo externo de procedencia desconocida.
 
 La frecuencia podrá adaptarse en función del nivel de riesgo y de las características de cada equipo.
